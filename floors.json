@@ -1,0 +1,27 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Přízemí",
+    "mapPath": "http://localhost:8080/uploads/floor_5_map.jpg"
+  },
+  "2": {
+    "id": 2,
+    "name": "1. patro (hl)",
+    "mapPath": "http://localhost:8080/uploads/floor_1_map.jpg"
+  },
+  "3": {
+    "id": 3,
+    "name": "2. patro (hl)",
+    "mapPath": "http://localhost:8080/uploads/floor_2_map.jpg"
+  },
+  "4": {
+    "id": 4,
+    "name": "1. patro (druh)",
+    "mapPath": "http://localhost:8080/uploads/floor_3_map.jpg"
+  },
+  "5": {
+    "id": 5,
+    "name": "2. patro (druh)",
+    "mapPath": "http://localhost:8080/uploads/floor_4_map.jpg"
+  }
+}
